@@ -1,0 +1,11 @@
+c:\users\ricky\source\repos\WorkFootballThing\WorkFootballRater\bin\Debug\netcoreapp2.0\WorkFootballRater.deps.json
+c:\users\ricky\source\repos\WorkFootballThing\WorkFootballRater\bin\Debug\netcoreapp2.0\WorkFootballRater.runtimeconfig.json
+c:\users\ricky\source\repos\WorkFootballThing\WorkFootballRater\bin\Debug\netcoreapp2.0\WorkFootballRater.runtimeconfig.dev.json
+c:\users\ricky\source\repos\WorkFootballThing\WorkFootballRater\bin\Debug\netcoreapp2.0\WorkFootballRater.dll
+c:\users\ricky\source\repos\WorkFootballThing\WorkFootballRater\obj\Debug\netcoreapp2.0\WorkFootballRater.csprojResolveAssemblyReference.cache
+c:\users\ricky\source\repos\WorkFootballThing\WorkFootballRater\obj\Debug\netcoreapp2.0\WorkFootballRater.csproj.CoreCompileInputs.cache
+c:\users\ricky\source\repos\WorkFootballThing\WorkFootballRater\obj\Debug\netcoreapp2.0\WorkFootballRater.AssemblyInfoInputs.cache
+c:\users\ricky\source\repos\WorkFootballThing\WorkFootballRater\obj\Debug\netcoreapp2.0\WorkFootballRater.AssemblyInfo.cs
+c:\users\ricky\source\repos\WorkFootballThing\WorkFootballRater\bin\Debug\netcoreapp2.0\WorkFootballRater.pdb
+c:\users\ricky\source\repos\WorkFootballThing\WorkFootballRater\obj\Debug\netcoreapp2.0\WorkFootballRater.dll
+c:\users\ricky\source\repos\WorkFootballThing\WorkFootballRater\obj\Debug\netcoreapp2.0\WorkFootballRater.pdb
